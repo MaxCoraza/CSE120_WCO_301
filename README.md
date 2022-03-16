@@ -12,3 +12,6 @@ Second, navigate to CSE120_project/client
 then, run the front end
 ```npm start```
 The front end should show now and you can store and edit data with the back end!
+
+This is the link used for setting up the mern app in case you would like to understand more:
+https://www.mongodb.com/languages/mern-stack-tutorial
